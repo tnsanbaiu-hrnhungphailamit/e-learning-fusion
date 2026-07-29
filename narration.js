@@ -1,0 +1,142 @@
+window.NARRATIONS = [
+  {
+    "lang": "en-US",
+    "text": "Fusion. Our Core Values."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Fusion. Giá trị cốt lõi."
+  },
+  {
+    "lang": "en-US",
+    "text": "As we continue to develop and uphold the importance of our core values, we ensure that we Live It Now through Natural, Original, and Wellbeing. Natural means being authentic in how we care for guests and committing to sustainable practices, local materials, and local communities. Original means striving to be different in our hotel concepts, services, and design, and taking a creative approach to individual guest needs and innovative experiences. Wellbeing means providing holistic wellness through programming and nutrition, and nurturing a healthy environment for guests and employees."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Khi chúng ta tiếp tục phát triển và giữ vững tầm quan trọng của các giá trị cốt lõi, chúng ta cam kết sống với chúng mỗi ngày, thể hiện sự Tự Nhiên, Độc Đáo và Lành Mạnh trong mọi hành động. Tự Nhiên là chân thành trong cách chúng ta chăm sóc khách hàng, cam kết với các thực hành bền vững, thiết kế và nguyên liệu địa phương. Độc Đáo là nỗ lực tạo khác biệt trong ý tưởng khách sạn, dịch vụ và thiết kế, đồng thời phục vụ sáng tạo theo nhu cầu cá nhân và đổi mới trải nghiệm khách hàng. Lành Mạnh là cung cấp sức khỏe toàn diện thông qua các chương trình và dinh dưỡng, nuôi dưỡng một môi trường lành mạnh cho cả khách hàng và nhân viên."
+  },
+  {
+    "lang": "en-US",
+    "text": "How do we apply our core values? Natural means being authentic in how we care for guests and committing to sustainable practices, local materials, and local communities. In hotel operations, we use local products, design naturally with materials connected to nature and local beauty, and apply sustainable practices. In guest service, we provide local experiences through products, food, culture, beauty, organic choices, and farm visits, while creating approachable service and a feeling of home. For employees, we prioritize authentic care, respect the local environment, build an eco-friendly mindset, and support local corporate social responsibility programs."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Cách chúng ta áp dụng giá trị cốt lõi Tự Nhiên. Chúng ta chân thành trong cách chăm sóc khách hàng và cam kết với các thực hành bền vững, thiết kế cùng nguyên liệu địa phương. Trong hoạt động khách sạn, chúng ta sử dụng sản phẩm địa phương, thiết kế bằng vật liệu tự nhiên gắn với vẻ đẹp bản địa và áp dụng các thực hành bền vững. Trong dịch vụ khách hàng, chúng ta tạo trải nghiệm địa phương qua sản phẩm, ẩm thực, văn hóa, vẻ đẹp, lựa chọn hữu cơ và thăm trang trại, để khách cảm thấy thoải mái và như ở nhà. Đối với nhân viên, chúng ta ưu tiên sự chân thành, tôn trọng môi trường địa phương, đào tạo tư duy bảo vệ môi trường và cam kết với các chương trình trách nhiệm xã hội tại địa phương."
+  },
+  {
+    "lang": "en-US",
+    "text": "We stay true to who we are, offering genuine care to our guests in every moment. Our commitment to sustainability shines through in thoughtfully designed spaces, the use of local materials, and mindful practices that respect nature and community."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Chúng ta luôn trung thực với bản thân, mang đến sự chăm sóc chân thành cho khách hàng trong từng khoảnh khắc. Cam kết của chúng ta về sự bền vững thể hiện qua những không gian được thiết kế chu đáo, sử dụng nguyên liệu địa phương và các thực hành tôn trọng thiên nhiên và cộng đồng."
+  },
+  {
+    "lang": "en-US",
+    "text": "Applying the core value Natural in hotel operations. Local products: we prioritize sourcing locally produced goods, from food and beverages to amenities, supporting the local economy and offering guests a genuine taste of the destination. Natural and local design: our properties use natural materials that reflect the beauty and essence of the local environment. Every space is inspired by nature and local culture, offering a sense of place and calm. Sustainable practices: from reducing single-use plastics and using energy-saving solutions to responsible waste management, we integrate environmentally friendly actions into daily operations. We also preserve local cultural values, contributing to sustainable tourism and the wellbeing of local communities. By living Natural, we offer experiences that are real, rooted in the local spirit, and responsible toward the world around us."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Áp dụng giá trị cốt lõi Tự Nhiên trong hoạt động khách sạn. Sản phẩm địa phương: chúng ta ưu tiên nguồn hàng sản xuất tại địa phương, từ thực phẩm, đồ uống đến các tiện nghi, nhằm hỗ trợ nền kinh tế địa phương và mang đến cho khách hàng hương vị thực sự của điểm đến. Thiết kế tự nhiên và địa phương: các thiết kế sử dụng vật liệu tự nhiên, phản ánh vẻ đẹp và bản chất của môi trường xung quanh. Mỗi không gian lấy cảm hứng từ thiên nhiên và văn hóa địa phương, tạo cảm giác chân thực và bình yên. Các thực hành bền vững: từ giảm nhựa sử dụng một lần, áp dụng giải pháp tiết kiệm năng lượng đến quản lý chất thải có trách nhiệm, chúng ta tích hợp hành động thân thiện với môi trường vào hoạt động hằng ngày. Chúng ta cũng gìn giữ các giá trị văn hóa bản địa, góp phần phát triển du lịch bền vững và cộng đồng địa phương. Bằng cách sống theo giá trị Tự Nhiên, chúng ta mang đến trải nghiệm chân thực, gắn với tinh thần địa phương và có trách nhiệm với thế giới xung quanh."
+  },
+  {
+    "lang": "en-US",
+    "text": "This is a reference page that captures the items used in the design. It is included to help the design process stay on track. The page states that it may be deleted when editing is complete."
+  },
+  {
+    "lang": "en-US",
+    "text": "Applying the core value Natural in guest service. Local experiences: we introduce guests to the heart of the destination through locally sourced products, regional cuisine, and cultural touches such as traditional crafts, organic farm visits, and locally inspired wellness offerings, creating discovery and connection. Genuine hospitality: we serve with sincerity and warmth, making guests feel welcome and at ease. Our approach is friendly, approachable, and unpretentious, so every guest feels comfortable, like being at home. By embracing Natural in guest service, we create memorable moments that are real and uniquely local, allowing guests to feel a deep personal connection to the place and its people."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Áp dụng giá trị cốt lõi Tự Nhiên đối với nhân viên. Chăm sóc với sự chân thành: chúng ta xây dựng một văn hóa hỗ trợ và cởi mở, nơi các thành viên cảm thấy an toàn, được trân trọng và như ở nhà. Các tương tác được xây dựng trên nền tảng tin cậy, chân thành và tôn trọng. Giống như cách chăm sóc khách hàng, chúng ta cũng chăm sóc lẫn nhau. Tư duy bảo vệ môi trường: chúng ta trao quyền cho đội ngũ thông qua đào tạo và các thực hành hằng ngày, khuyến khích nhận thức về môi trường. Nhân viên được khuyến khích áp dụng thói quen bền vững và tích cực tham gia các sáng kiến trách nhiệm xã hội tại địa phương. Bằng cách nuôi dưỡng con người với sự chân thật và mục tiêu rõ ràng, chúng ta xây dựng một đội ngũ phát triển và cùng chia sẻ cam kết về lối sống, cách làm việc tự nhiên và có trách nhiệm."
+  },
+  {
+    "lang": "en-US",
+    "text": "Applying the core value Natural to our employees. Authentic care: we foster a supportive and open culture where team members feel safe, valued, and at home. Our interactions are built on trust, honesty, and respect. Just as we care for guests, we care for each other. Eco-friendly mindset: we empower teams through training and daily practices that promote environmental awareness. Employees are encouraged to adopt sustainable habits and actively participate in local corporate social responsibility initiatives, strengthening our collective impact on the community and the planet. By nurturing people with authenticity and purpose, we build a team that thrives and shares our commitment to a more natural and responsible way of living and working."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Áp dụng giá trị cốt lõi Tự Nhiên trong dịch vụ khách hàng. Trải nghiệm địa phương: chúng ta giới thiệu cho khách hàng điều tuyệt vời của điểm đến qua sản phẩm địa phương, ẩm thực vùng miền và các điểm chạm văn hóa như nghề thủ công truyền thống, thăm trang trại hữu cơ hoặc dịch vụ chăm sóc sức khỏe lấy cảm hứng từ địa phương. Những trải nghiệm này tạo cảm giác khám phá và kết nối. Lòng hiếu khách chân thành: chúng ta phục vụ với sự chân thành và ấm áp, để khách hàng cảm thấy được chào đón và thoải mái. Cách tiếp cận thân thiện, dễ gần và không cầu kỳ giúp mỗi khách hàng cảm thấy như ở nhà. Bằng cách đón nhận giá trị Tự Nhiên trong dịch vụ khách hàng, chúng ta tạo ra những khoảnh khắc đáng nhớ, chân thành và mang đậm nét địa phương, giúp khách hàng kết nối sâu sắc với nơi chốn và con người nơi đây."
+  },
+  {
+    "lang": "en-US",
+    "text": "How do we apply the core value Original? We strive to be different in our hotel concepts, services, and design. We take a creative approach to serving guests, focusing on individual needs and offering an innovative guest experience. In hotel operations, we create distinctive designs and hotel concepts, embrace technology, and use different approaches to service and operations. In guest service, we think creatively and outside the box, and innovate to enhance guest experiences. For employees, we embrace creative ideas to build a better workplace and foster a culture of innovation and empowerment."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Cách chúng ta áp dụng giá trị cốt lõi Độc Đáo. Chúng ta nỗ lực tạo khác biệt trong ý tưởng khách sạn, dịch vụ và thiết kế. Chúng ta tiếp cận sáng tạo để phục vụ khách hàng, tập trung vào nhu cầu cá nhân và đổi mới trải nghiệm. Trong hoạt động khách sạn, chúng ta tạo khác biệt trong thiết kế và ý tưởng, áp dụng công nghệ cùng các phương pháp mới trong dịch vụ và vận hành. Trong dịch vụ khách hàng, chúng ta sáng tạo trong công việc, suy nghĩ ngoài khuôn khổ và đổi mới để nâng cao trải nghiệm. Đối với nhân viên, chúng ta đón nhận ý tưởng sáng tạo để xây dựng nơi làm việc tốt hơn, đồng thời tạo văn hóa đổi mới và trao quyền."
+  },
+  {
+    "lang": "en-US",
+    "text": "We dare to be different in everything we do, from concept to service to design. Driven by creativity, we personalize every detail to meet our guests' unique needs. Through innovative thinking, we craft experiences that are fresh, meaningful, and truly unforgettable."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Chúng ta dám khác biệt trong mọi thứ chúng ta làm, từ ý tưởng, dịch vụ cho đến thiết kế. Dựa trên sự sáng tạo, chúng ta cá nhân hóa từng chi tiết để đáp ứng nhu cầu độc đáo của khách hàng. Thông qua tư duy đổi mới, chúng ta tạo ra những trải nghiệm mới mẻ, ý nghĩa và thật sự khó quên."
+  },
+  {
+    "lang": "en-US",
+    "text": "Applying the core value Original in hotel operations. Being different in design and hotel concept: each property is thoughtfully crafted with a unique identity that reflects local culture and creativity. We go beyond standard designs to create spaces that surprise, delight, and feel truly one of a kind. Being innovative in service and operations: we embrace creativity and technology to improve guest experiences and operational efficiency. From smart check-ins to tailored guest journeys and fresh service ideas, we constantly explore new approaches that make us stand out and stay ahead. Through our commitment to being Original, we create memorable, personalized, and forward-thinking hospitality."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Áp dụng giá trị cốt lõi Độc Đáo trong hoạt động khách sạn. Khác biệt trong thiết kế và ý tưởng khách sạn: mỗi cơ sở được thiết kế chu đáo với một bản sắc độc đáo, phản ánh văn hóa và sự sáng tạo địa phương. Chúng ta vượt ra ngoài những thiết kế chuẩn mực để tạo ra không gian gây bất ngờ, thích thú và thực sự khác biệt. Đổi mới trong dịch vụ và hoạt động: chúng ta áp dụng sáng tạo và công nghệ để nâng cao trải nghiệm khách hàng và hiệu quả vận hành. Từ thủ tục nhận phòng thông minh, hành trình khách hàng được cá nhân hóa đến những ý tưởng dịch vụ mới mẻ, chúng ta liên tục khám phá phương pháp mới để nổi bật và luôn đi trước. Bằng giá trị Độc Đáo, chúng ta tạo ra những trải nghiệm đáng nhớ, cá nhân hóa và có tầm nhìn trong ngành khách sạn."
+  },
+  {
+    "lang": "en-US",
+    "text": "Applying the core value Original in guest service. We bring Original to life by thinking creatively and going beyond expectations. Being creative and thinking outside the box: we listen deeply to guests and personalize their journey with thoughtful and surprising touches. From unique welcome moments to heartfelt farewells, we turn ordinary interactions into extraordinary memories. Being innovative to enhance guest experiences: we use smart tools, fresh ideas, and modern solutions to serve guests better and faster. Through digital convenience and new ways to deliver comfort, we constantly innovate to delight and inspire. By staying different, creative, and innovative, we ensure every guest feels special and truly at home with Fusion."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Áp dụng giá trị cốt lõi Độc Đáo trong dịch vụ khách hàng. Chúng ta luôn suy nghĩ sáng tạo và vượt qua những điều mong đợi. Sáng tạo trong công việc và suy nghĩ ngoài khuôn khổ: chúng ta lắng nghe sâu sắc nhu cầu khách hàng và cá nhân hóa hành trình của họ bằng những chi tiết chu đáo, bất ngờ. Từ khoảnh khắc chào đón độc đáo đến lời chia tay chân thành, chúng ta biến tương tác bình thường thành kỷ niệm đặc biệt. Đổi mới để nâng cao trải nghiệm khách hàng: chúng ta sử dụng công cụ thông minh, ý tưởng mới và giải pháp hiện đại để phục vụ tốt hơn, nhanh hơn. Dù thông qua sự tiện lợi kỹ thuật số hay cách thức mới để mang lại sự thoải mái, chúng ta luôn đổi mới để làm hài lòng và truyền cảm hứng. Bằng cách duy trì sự khác biệt, sáng tạo và đổi mới, chúng ta đảm bảo mỗi khách hàng cảm thấy đặc biệt và thật sự như ở nhà với Fusion."
+  },
+  {
+    "lang": "en-US",
+    "text": "Applying the core value Original to our employees. We live Original by creating a workplace where creativity and innovation thrive. We embrace employees' creative ideas to build a better workplace. Every idea, big or small, is valued, and team members are encouraged to think differently and share openly. Their creativity helps improve how we work, connect, and grow together. We foster a culture of innovation and empowerment by enabling people to challenge the norm, try new approaches, and take ownership. Through bold thinking and continuous learning, we build a dynamic and inspiring work environment. Together, we nurture a team that is different, creative, and always innovating to shape the future of hospitality."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Áp dụng giá trị cốt lõi Độc Đáo đối với nhân viên. Chúng ta tạo ra một môi trường làm việc nơi sự sáng tạo và đổi mới phát triển mạnh mẽ. Đón nhận những ý tưởng sáng tạo của nhân viên để xây dựng môi trường tốt hơn: chúng ta trân trọng mọi ý tưởng, dù lớn hay nhỏ, khuyến khích các thành viên suy nghĩ khác biệt và chia sẻ cởi mở. Sự sáng tạo giúp cải tiến cách làm việc, kết nối và phát triển cùng nhau. Xây dựng văn hóa đổi mới và trao quyền: chúng ta trao quyền cho nhân viên thách thức chuẩn mực, thử nghiệm phương pháp mới và chịu trách nhiệm. Bằng cách hỗ trợ tư duy táo bạo và học hỏi liên tục, chúng ta xây dựng môi trường làm việc năng động và truyền cảm hứng. Cùng nhau, chúng ta nuôi dưỡng một đội ngũ khác biệt, sáng tạo và luôn đổi mới để hình thành tương lai ngành khách sạn."
+  },
+  {
+    "lang": "en-US",
+    "text": "How do we apply the core value Wellbeing? We are committed to providing holistic wellness through programming and nutrition, while nurturing a healthy environment for guests and employees. In hotel operations, we provide wellbeing stays through food and wellness programs, nurture a healthy environment, and deliver holistic programming for guests and employees. In guest service, we commit to holistic wellness through programming and nutrition and create a healthy environment for guests. For employees, we nurture health, happiness, and wellbeing through opportunities for personal growth and learning, and develop wellness programs both in and outside the workplace."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Cách chúng ta áp dụng giá trị cốt lõi Lành Mạnh. Chúng ta cam kết cung cấp sức khỏe toàn diện thông qua các chương trình và dinh dưỡng, đồng thời nuôi dưỡng môi trường lành mạnh cho cả khách hàng và nhân viên. Trong hoạt động khách sạn, chúng ta chăm sóc sức khỏe khách hàng qua ẩm thực và chương trình wellness, nuôi dưỡng môi trường lành mạnh và triển khai các chương trình sức khỏe toàn diện cho khách hàng cùng nhân viên. Trong dịch vụ khách hàng, chúng ta cam kết chăm sóc sức khỏe toàn diện qua chương trình, dinh dưỡng và môi trường tích cực. Đối với nhân viên, chúng ta nuôi dưỡng sức khỏe, hạnh phúc và sự lành mạnh thông qua cơ hội phát triển cá nhân, học hỏi và các chương trình chăm sóc sức khỏe trong cũng như ngoài nơi làm việc."
+  },
+  {
+    "lang": "en-US",
+    "text": "We embrace holistic wellness by caring for body, mind, and spirit, from nourishing meals to thoughtfully designed wellness programs. More than just a service, we nurture a healthy, balanced environment where both guests and team members can thrive, feel supported, and grow every day."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Chúng ta đón nhận sức khỏe toàn diện bằng cách chăm sóc cơ thể, tâm trí và tinh thần, từ những bữa ăn dinh dưỡng đến các chương trình chăm sóc sức khỏe được thiết kế chu đáo. Hơn cả một dịch vụ, chúng ta nuôi dưỡng một môi trường lành mạnh và cân bằng, nơi cả khách hàng và nhân viên có thể phát triển, cảm thấy được hỗ trợ và trưởng thành mỗi ngày."
+  },
+  {
+    "lang": "en-US",
+    "text": "Applying the core value Wellbeing in hotel operations. Wellbeing stays through food and wellness programs include nutritious dining with healthy balanced menus, fresh local ingredients, vegetarian, vegan, and allergy-friendly choices; daily activities such as yoga, meditation, nature walks, and stretching; and relaxing spa spaces with signature treatments that support healing, stress relief, and balance. A healthy environment for guests and employees includes calm, clean spaces with high standards of hygiene, natural light, and peaceful design; a positive workplace culture that supports work-life balance, respectful communication, and emotional wellbeing; and a healthy lifestyle at work through nutritious staff meals, rest areas, mental health support, and wellness breaks. Holistic programming for all includes integrated physical, mental, and emotional care, shared breathing or gratitude activities for guests and staff, and wellness days or health campaigns that promote a caring and healthy community."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Áp dụng giá trị cốt lõi Lành Mạnh trong hoạt động khách sạn. Chế độ lành mạnh cho khách hàng qua ẩm thực và các chương trình chăm sóc sức khỏe gồm thực đơn dinh dưỡng, lành mạnh và cân bằng với nguyên liệu tươi, địa phương, các lựa chọn thuần chay, thực vật và phù hợp chế độ ăn đặc biệt; các hoạt động hằng ngày như yoga, thiền, đi bộ trong thiên nhiên hoặc lớp căng cơ; cùng không gian spa thư giãn và liệu pháp đặc trưng giúp chữa lành, giảm căng thẳng và cân bằng. Môi trường lành mạnh cho khách hàng và nhân viên gồm không gian yên bình, sạch sẽ, ánh sáng tự nhiên và thiết kế dễ chịu; văn hóa công sở tích cực, cân bằng công việc và cuộc sống, giao tiếp tôn trọng và hỗ trợ sức khỏe tinh thần; cùng lối sống lành mạnh tại nơi làm việc với bữa ăn dinh dưỡng, khu vực nghỉ ngơi và các giờ nghỉ chăm sóc sức khỏe. Chương trình toàn diện cho tất cả kết hợp chăm sóc thể chất, tinh thần và cảm xúc; tổ chức các hoạt động chung như bài tập thở hoặc chia sẻ lòng biết ơn; và triển khai ngày sức khỏe hoặc chiến dịch nâng cao nhận thức để xây dựng cộng đồng quan tâm và khỏe mạnh."
+  },
+  {
+    "lang": "en-US",
+    "text": "Applying the core value Wellbeing in guest service. Commitment to holistic wellness through programming and nutrition includes personalized recommendations for spa treatments, fitness classes, and relaxation activities based on guest preferences; proactively highlighting healthy menu options, detox drinks, and special dietary accommodations; and offering wellness touchpoints such as herbal tea at check-in, aromatherapy in rooms, or a wellness tip card during turndown service. Nurturing a healthy environment for guests means warm and mindful interactions with genuine care, attentive listening, and empathy; calm and clean guest areas that are fresh, quiet, and clutter-free; and restful experiences that respect quiet time, provide sleep-enhancing amenities such as lavender spray and blackout curtains, and minimize disturbances."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Áp dụng giá trị cốt lõi Lành Mạnh trong dịch vụ khách hàng. Cam kết tạo môi trường lành mạnh thông qua các chương trình và dinh dưỡng gồm đề xuất chăm sóc sức khỏe cá nhân hóa như liệu pháp spa, lớp thể dục hoặc hoạt động thư giãn dựa trên sở thích của khách hàng; chủ động giới thiệu thực đơn lành mạnh, thức uống giải độc và các phương án cho chế độ ăn đặc biệt; đồng thời cung cấp các điểm chạm sức khỏe như trà thảo mộc khi nhận phòng, liệu pháp hương thơm trong phòng hoặc thẻ gợi ý chăm sóc sức khỏe trong dịch vụ dọn phòng. Nuôi dưỡng môi trường lành mạnh cho khách hàng gồm giao tiếp ấm áp, chu đáo, lắng nghe và đáp ứng bằng sự thấu cảm; duy trì khu vực sạch sẽ, yên tĩnh, không lộn xộn để hỗ trợ thư giãn; và khuyến khích trải nghiệm nghỉ ngơi bằng cách tôn trọng nhu cầu yên tĩnh, cung cấp tiện nghi hỗ trợ giấc ngủ như xịt hoa oải hương, rèm cản sáng và giảm thiểu các yếu tố gây gián đoạn."
+  },
+  {
+    "lang": "en-US",
+    "text": "Applying the core value Wellbeing to our employees. Nurturing employees' health, happiness, and wellbeing includes mental and emotional support through stress management, flexible schedules, regular check-ins, recognition of achievements, and an inclusive culture; promoting work-life balance through reasonable hours, regular breaks, and flexible scheduling where possible; and celebrating people through recognition, birthdays, and a positive workplace. Growth and learning opportunities include regular training, cross-training, career development, education about nutrition, mindfulness, financial wellness, and emotional resilience, plus employee involvement in decisions, ideas, and initiatives affecting work life. Wellness programs inside and outside the workplace include yoga, Zumba, meditation, and stretching sessions; nutritious staff meals, hydration stations, and health checks; and support for volunteering, team outings, hobbies, and social clubs such as running, reading, or gardening."
+  },
+  {
+    "lang": "vi-VN",
+    "text": "Áp dụng giá trị cốt lõi Lành Mạnh đối với nhân viên. Nuôi dưỡng sức khỏe, hạnh phúc và sự lành mạnh của nhân viên gồm hỗ trợ sức khỏe tinh thần và cảm xúc thông qua quản lý căng thẳng, lịch làm việc linh hoạt, kiểm tra định kỳ, ghi nhận thành tích và xây dựng văn hóa tích cực, hòa nhập; khuyến khích cân bằng công việc và cuộc sống bằng giờ làm hợp lý, nghỉ giải lao đều đặn và lịch linh hoạt khi có thể; đồng thời ghi nhận đóng góp, tổ chức sinh nhật và tạo môi trường tích cực cho mọi người. Cơ hội học hỏi và phát triển gồm đào tạo định kỳ, đào tạo chéo, phát triển nghề nghiệp, các buổi học về dinh dưỡng, thiền định, sức khỏe tài chính và khả năng phục hồi cảm xúc, cùng việc trao quyền cho nhân viên tham gia quyết định và chia sẻ ý tưởng. Các chương trình chăm sóc sức khỏe trong và ngoài nơi làm việc gồm lớp yoga, Zumba, thiền hoặc căng cơ; bữa ăn dinh dưỡng, trạm nước và kiểm tra sức khỏe; cùng hoạt động tình nguyện cộng đồng, chuyến đi nhóm và các câu lạc bộ sở thích như chạy bộ, đọc sách hoặc làm vườn."
+  }
+];

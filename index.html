@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Fusion Core Values</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main id="course" aria-label="Fusion Core Values">
+    <header class="topbar">
+      <div class="brand-block">
+        <strong>Fusion Core Values</strong>
+        <span id="statusText">Trang 1 / 35</span>
+        <span id="languageText" class="language-pill">English</span>
+      </div>
+      <div class="header-actions">
+        <button id="captionsBtn" type="button" aria-pressed="false">Nội dung voice</button>
+        <button id="fullscreenBtn" type="button">Toàn màn hình</button>
+      </div>
+    </header>
+
+    <section class="stage" aria-live="polite">
+      <img id="slideImage" src="assets/slides/slide-01.jpg" alt="Trang 1 trên 35">
+    </section>
+
+    <section id="captionPanel" class="caption-panel" hidden>
+      <div id="captionText"></div>
+    </section>
+
+    <section class="controls" aria-label="Điều khiển khóa học">
+      <button id="prevBtn" type="button">Trang trước</button>
+      <button id="playBtn" class="primary" type="button">Phát lời đọc</button>
+      <button id="nextBtn" type="button">Trang sau</button>
+      <label class="select-label">Giọng Anh
+        <select id="englishVoiceSelect" aria-label="Giọng tiếng Anh"></select>
+      </label>
+      <label class="select-label">Giọng Việt
+        <select id="vietnameseVoiceSelect" aria-label="Giọng tiếng Việt"></select>
+      </label>
+      <label class="select-label">Tốc độ
+        <select id="rateSelect" aria-label="Tốc độ đọc">
+          <option value="0.85">0.85x</option>
+          <option value="1" selected>1.0x</option>
+          <option value="1.1">1.1x</option>
+          <option value="1.25">1.25x</option>
+        </select>
+      </label>
+      <label class="check-label"><input id="autoNext" type="checkbox" checked> Tự chuyển trang</label>
+    </section>
+
+    <div class="progress-track" aria-hidden="true"><div id="progressBar"></div></div>
+  </main>
+
+  <div id="startOverlay" class="start-overlay">
+    <div class="start-card" role="dialog" aria-modal="true" aria-labelledby="startTitle">
+      <h1 id="startTitle">Fusion Core Values</h1>
+      <p>Toàn bộ 35 trang, nội dung và hình ảnh của tài liệu gốc được giữ nguyên dưới dạng trang trình chiếu. Voice tự động chuyển giữa tiếng Anh và tiếng Việt theo từng trang.</p>
+      <label>Giọng tiếng Anh
+        <select id="startEnglishVoiceSelect" aria-label="Chọn giọng tiếng Anh"></select>
+      </label>
+      <label>Giọng tiếng Việt
+        <select id="startVietnameseVoiceSelect" aria-label="Chọn giọng tiếng Việt"></select>
+      </label>
+      <p id="supportMessage">Đang tải danh sách voice của trình duyệt...</p>
+      <button id="startBtn" type="button" class="primary large">Bắt đầu khóa học</button>
+      <small>Trình duyệt yêu cầu người học nhấn nút trước khi phát voice. Khuyến nghị sử dụng Microsoft Edge hoặc Google Chrome.</small>
+    </div>
+  </div>
+
+  <noscript>Gói SCORM này cần JavaScript để hoạt động.</noscript>
+  <script src="narration.js"></script>
+  <script src="scorm.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

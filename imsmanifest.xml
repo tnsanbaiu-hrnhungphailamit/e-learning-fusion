@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="FUSION_CORE_VALUES_VOICE_2026" version="1.0"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="ORG-1">
+    <organization identifier="ORG-1">
+      <title>Fusion Core Values</title>
+      <item identifier="ITEM-1" identifierref="RES-1">
+        <title>Fusion Core Values</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-1" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <file href="style.css"/>
+      <file href="app.js"/>
+      <file href="scorm.js"/>
+      <file href="narration.js"/>
+      <file href="Narration_Script_Bilingual.txt"/>
+      <file href="README.txt"/>
+      <file href="assets/slides/slide-01.jpg"/>
+      <file href="assets/slides/slide-02.jpg"/>
+      <file href="assets/slides/slide-03.jpg"/>
+      <file href="assets/slides/slide-04.jpg"/>
+      <file href="assets/slides/slide-05.jpg"/>
+      <file href="assets/slides/slide-06.jpg"/>
+      <file href="assets/slides/slide-07.jpg"/>
+      <file href="assets/slides/slide-08.jpg"/>
+      <file href="assets/slides/slide-09.jpg"/>
+      <file href="assets/slides/slide-10.jpg"/>
+      <file href="assets/slides/slide-11.jpg"/>
+      <file href="assets/slides/slide-12.jpg"/>
+      <file href="assets/slides/slide-13.jpg"/>
+      <file href="assets/slides/slide-14.jpg"/>
+      <file href="assets/slides/slide-15.jpg"/>
+      <file href="assets/slides/slide-16.jpg"/>
+      <file href="assets/slides/slide-17.jpg"/>
+      <file href="assets/slides/slide-18.jpg"/>
+      <file href="assets/slides/slide-19.jpg"/>
+      <file href="assets/slides/slide-20.jpg"/>
+      <file href="assets/slides/slide-21.jpg"/>
+      <file href="assets/slides/slide-22.jpg"/>
+      <file href="assets/slides/slide-23.jpg"/>
+      <file href="assets/slides/slide-24.jpg"/>
+      <file href="assets/slides/slide-25.jpg"/>
+      <file href="assets/slides/slide-26.jpg"/>
+      <file href="assets/slides/slide-27.jpg"/>
+      <file href="assets/slides/slide-28.jpg"/>
+      <file href="assets/slides/slide-29.jpg"/>
+      <file href="assets/slides/slide-30.jpg"/>
+      <file href="assets/slides/slide-31.jpg"/>
+      <file href="assets/slides/slide-32.jpg"/>
+      <file href="assets/slides/slide-33.jpg"/>
+      <file href="assets/slides/slide-34.jpg"/>
+      <file href="assets/slides/slide-35.jpg"/>
+    </resource>
+  </resources>
+</manifest>
