@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fusion Core Values Quiz</title>
+<style>
+body{font-family:Arial,sans-serif;background:#f4f4f4;margin:0}
+.container{max-width:900px;margin:30px auto;background:#fff;padding:25px;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+.quiz{display:none}.quiz.active{display:block}
+.question{margin:20px 0}
+button{padding:10px 18px;margin:8px;border:none;border-radius:6px;background:#f28c28;color:#fff;cursor:pointer}
+.result{font-weight:bold;font-size:20px;margin-top:20px}
+.correct{color:green}.wrong{color:red}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Fusion Core Values Quiz</h1>
+<p>3 quizzes • 2 questions each</p>
+
+<div class="quiz active">
+<h2>Quiz 1 – Core Values</h2>
+<div class="question">
+<p>1. Which are Fusion's three core values?</p>
+<label><input type=radio name=q1 value=0> A. Integrity, Respect, Excellence</label><br>
+<label><input type=radio name=q1 value=1> B. Natural, Original, Well-being</label><br>
+<label><input type=radio name=q1 value=0> C. Quality, Safety, Innovation</label><br>
+<label><input type=radio name=q1 value=0> D. Speed, Service, Profit</label>
+</div>
+<div class="question">
+<p>2. "Natural" emphasizes:</p>
+<label><input type=radio name=q2 value=1> A. Sustainability and local materials</label><br>
+<label><input type=radio name=q2 value=0> B. Luxury brands</label><br>
+<label><input type=radio name=q2 value=0> C. Fast expansion</label><br>
+<label><input type=radio name=q2 value=0> D. Price competition</label>
+</div>
+<button onclick="nextQuiz(0)">Next</button>
+</div>
+
+<div class="quiz">
+<h2>Quiz 2 – Original</h2>
+<div class="question">
+<p>3. The "Original" value encourages employees to:</p>
+<label><input type=radio name=q3 value=0>A. Follow routines only</label><br>
+<label><input type=radio name=q3 value=1>B. Think creatively and innovate</label><br>
+<label><input type=radio name=q3 value=0>C. Avoid change</label><br>
+<label><input type=radio name=q3 value=0>D. Copy competitors</label>
+</div>
+<div class="question">
+<p>4. Original guest service focuses on:</p>
+<label><input type=radio name=q4 value=0>A. Lowest prices</label><br>
+<label><input type=radio name=q4 value=1>B. Creative, memorable guest experiences</label><br>
+<label><input type=radio name=q4 value=0>C. Self-service only</label><br>
+<label><input type=radio name=q4 value=0>D. Standardized interactions</label>
+</div>
+<button onclick="nextQuiz(1)">Next</button>
+</div>
+
+<div class="quiz">
+<h2>Quiz 3 – Well-being</h2>
+<div class="question">
+<p>5. Well-being promotes:</p>
+<label><input type=radio name=q5 value=1>A. Holistic wellness for guests and employees</label><br>
+<label><input type=radio name=q5 value=0>B. Luxury only</label><br>
+<label><input type=radio name=q5 value=0>C. Faster check-in only</label><br>
+<label><input type=radio name=q5 value=0>D. Cost reduction only</label>
+</div>
+<div class="question">
+<p>6. Which is part of Well-being?</p>
+<label><input type=radio name=q6 value=0>A. Ignoring nutrition</label><br>
+<label><input type=radio name=q6 value=0>B. More paperwork</label><br>
+<label><input type=radio name=q6 value=1>C. Wellness programs and healthy environments</label><br>
+<label><input type=radio name=q6 value=0>D. Fewer employee benefits</label>
+</div>
+<button onclick="finish()">Finish</button>
+<div class="result" id="result"></div>
+</div>
+
+</div>
+
+<script>
+const quizzes=document.querySelectorAll('.quiz');
+function nextQuiz(i){
+ quizzes[i].classList.remove('active');
+ quizzes[i+1].classList.add('active');
+}
+function finish(){
+ let score=0;
+ document.querySelectorAll('input[type=radio]:checked').forEach(e=>score+=Number(e.value));
+ document.getElementById('result').innerHTML="Score: "+score+"/6";
+}
+</script>
+</body>
+</html>
